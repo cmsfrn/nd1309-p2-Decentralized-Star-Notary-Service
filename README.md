@@ -5,9 +5,9 @@
 ---
 
 ## Token information
-1.Token name = Creative
-2.Token Symbol = CRT
-3.Token Address = 0xDf76F27770e3b1312A91D88B8a87c2eF363b1087
+1. Token name = Creative
+2. Token Symbol = CRT
+3. Token Address = 0xDf76F27770e3b1312A91D88B8a87c2eF363b1087
 
 ---
 
